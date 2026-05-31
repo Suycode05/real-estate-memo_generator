@@ -71,10 +71,18 @@ Balanced risk analysis and investment recommendations
 Focused on Prayagraj market (Circle Rates, RERA, Infrastructure)
 
 
-📸 Demo
+## 📸 Demo
+### 
 <img src="screenshots/image1.png" width="600"/>
+
+### 
 <img src="screenshots/image2.png" width="600"/>
+
 <img src="screenshots/image3.png" width="600"/>
+## 🏆 Project Demo (Screenshots)
+
+### 🔹 Prediction UI  
+<img src="screenshots/image1.png" width="600"/>
 
 
 🔮 Future Enhancements
