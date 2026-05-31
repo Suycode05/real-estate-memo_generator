@@ -37,7 +37,7 @@ An intelligent **RAG + Generative AI + Financial Analysis** system that generate
 
 ### 1. Clone the Project
 ```bash
-git clone https://github.com/yourusername/prayagraj-real-estate-ai.git
+git clone https://github.com/Suycode05/real-estate-memo_generator.git
 cd prayagraj-real-estate-ai
 2. Create Virtual Environment
 python -m venv venv
