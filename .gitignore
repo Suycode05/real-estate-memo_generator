@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project Specific
+chroma_db/
+chroma_db_web/
+data/pdfs/
+data/ocr_pdfs/
+data
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Streamlit
+.streamlit/
+
+# Logs & Temporary files
+*.log
+logs/
+temp/
+tmp/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large files
+*.pdf
+*.docx
+*.xlsx
+
+# Cache
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
