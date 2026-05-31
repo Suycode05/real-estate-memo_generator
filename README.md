@@ -71,19 +71,16 @@ Balanced risk analysis and investment recommendations
 Focused on Prayagraj market (Circle Rates, RERA, Infrastructure)
 
 
-## 📸 Demo
-### 
-<img src="screenshots/image1.png" width="600"/>
+## 📸 Screenshots
 
-### 
-<img src="screenshots/image2.png" width="600"/>
+### 1. Main Application Interface
+![Main UI](screenshots/image1.png)
 
-<img src="screenshots/image3.png" width="600"/>
-## 🏆 Project Demo (Screenshots)
+### 2. Investment Memo Generation
+![Memo Generation](screenshots/image2.png)
 
-### 🔹 Prediction UI  
-<img src="screenshots/image1.png" width="600"/>
-
+### 4. Financial Metrics View
+![Financial Analysis](screenshots/image3.png)
 
 🔮 Future Enhancements
 
